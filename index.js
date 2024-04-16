@@ -18,8 +18,6 @@ const db = new pg.Client({
 
 db.connect();  // Connect to the PostgreSQL database
 
-
-
 // Middleware
 
 app.use(bodyParser.urlencoded({ extended: true }));    // Parse URL-encoded bodies
