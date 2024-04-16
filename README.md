@@ -2,7 +2,7 @@
 
 This is a simple to do list that allows users to add, edit, and delete tasks. It utilizes PostgreSQL database
 
-## Playing with a API with Express, Axios and Ejs
+## Playing with PostgreeSQL, Express, Node and Ejs
 
 - Express/Node.js for server-side programming.
 - pgAdmin for database management.
